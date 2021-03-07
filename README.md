@@ -1,8 +1,8 @@
 > # Technical Company Mobile App
 >>
->- [x] Google Maps Locations of customer sites
+>- [x] Google Maps locations of customer sites
 >- [x] Lists your companies available products in stock
->- [x] Check list of Technical repairs needed to be done by your company
+>- [x] Check list of technical repairs 
 >- [x] Coffee Bar to see fellow employee's brew preferrences ☕
 >
 >>### App Preview
